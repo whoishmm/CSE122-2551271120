@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    justify-content: center;
+    
+}
+.khung-tho{
+    background-color: #FFFDE7;
+    border: #9E9E9E;
+    width: 640px;
+    padding: 24px;
+    text-align: center;
+    box-sizing: 640px;
+}
+h1{
+    color: #d40000;
+    background-color: #FFD9E6;
+    size: 26px;
+    padding: 6px 0;
+    margin: 0 0 20px;
+}
+.khoxanh{
+    color: #0033CC;
+    line-height: 1.7;
+    font-style: italic;
+}
+.khodo{
+    color: #d40000;
+    line-height: 1.7;
+    font-style: italic;
+}
+hr{
+    width: 55%;
+    color: #0033CC;
+}
