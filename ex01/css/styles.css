@@ -2,10 +2,12 @@ body{
     display: flex;
     justify-content: center;
     
+    
 }
 .khung-tho{
+    
     background-color: #FFFDE7;
-    border: #9E9E9E;
+    border: 1px solid #9E9E9E;
     width: 640px;
     padding: 24px;
     text-align: center;
